@@ -1,0 +1,15 @@
+.productCard {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.tableName {
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-size: large;
+}

@@ -1,0 +1,6 @@
+.productInfo {
+    display: block;
+    text-align: center;
+    margin: 20px !important; /* Я без понятия почему без этого не работает, но впринципе какая разница ¯\_(ツ)_/¯ */
+}
+
